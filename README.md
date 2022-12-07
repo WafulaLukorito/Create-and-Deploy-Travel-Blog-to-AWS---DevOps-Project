@@ -3,7 +3,7 @@
 In this project, I created a static travel blog and deployed it to AWS using `S3`, `CloudFront`, and `IAM`.
 
 ## Project Overview
- - Created a static travel blog using `HTML`, `CSS`, and `JavaScript`. 
+ - Created a static travel blog using `HTML` and `CSS`. 
     - I used `Bootstrap` to help with the styling.
     - I used `jQuery` to help with the functionality.
 - Deployed the website to a public `S3 bucket` and configured it to serve static content.
