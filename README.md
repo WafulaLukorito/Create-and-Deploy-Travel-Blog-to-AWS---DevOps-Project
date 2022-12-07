@@ -10,6 +10,7 @@ In this project, I created a static travel blog and deployed it to AWS using `S3
 - Secured the deployment using `IAM policies`.
 - Used `CloudFront` as a content delivery network (CDN) to speed up distribution of the website to users around the world.
 
+## Deployment Screenshots
 
 
 
